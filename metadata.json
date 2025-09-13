@@ -1,0 +1,5 @@
+{
+  "name": "Catch the Elusive Mouse",
+  "description": "A challenging game where you try to catch a fast, unpredictable mouse on the screen. It takes three successful catches to win, but the mouse changes direction with every tap, making it very difficult to corner.",
+  "requestFramePermissions": []
+}
